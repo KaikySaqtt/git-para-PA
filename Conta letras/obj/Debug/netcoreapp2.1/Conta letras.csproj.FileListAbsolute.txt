@@ -1,0 +1,10 @@
+C:\Users\LabInfo\Desktop\Conta letras\obj\Debug\netcoreapp2.1\Conta letras.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Desktop\Conta letras\obj\Debug\netcoreapp2.1\Conta letras.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Desktop\Conta letras\obj\Debug\netcoreapp2.1\Conta letras.AssemblyInfo.cs
+C:\Users\LabInfo\Desktop\Conta letras\bin\Debug\netcoreapp2.1\Conta letras.deps.json
+C:\Users\LabInfo\Desktop\Conta letras\bin\Debug\netcoreapp2.1\Conta letras.runtimeconfig.json
+C:\Users\LabInfo\Desktop\Conta letras\bin\Debug\netcoreapp2.1\Conta letras.runtimeconfig.dev.json
+C:\Users\LabInfo\Desktop\Conta letras\bin\Debug\netcoreapp2.1\Conta letras.dll
+C:\Users\LabInfo\Desktop\Conta letras\bin\Debug\netcoreapp2.1\Conta letras.pdb
+C:\Users\LabInfo\Desktop\Conta letras\obj\Debug\netcoreapp2.1\Conta letras.dll
+C:\Users\LabInfo\Desktop\Conta letras\obj\Debug\netcoreapp2.1\Conta letras.pdb
