@@ -1,0 +1,35 @@
+using System;
+using static System.Console;
+using System.Threading;
+
+namespace deslocamento_letra
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Digite a frase: ");
+            string frase = Console.ReadLine();
+            int tamanho = frase.Length;
+
+
+            frase = frase + " ";
+
+            Console.Clear();
+
+            while (true)
+            {
+                SetCursorPosition(8, 10);
+                Write("[");
+                SetCursorPosition(9, 10);
+                Console.Write(frase);
+                SetCursorPosition(9 + tamanho + 1, 10);
+                Write("]");
+                Thread.Sleep(200);
+
+
+                frase = frase.Substring(1) + frase[0];
+            }
+        }
+    }
+}
